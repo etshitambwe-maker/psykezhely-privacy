@@ -1,0 +1,59 @@
+# 🔒 Politique de Confidentialité et Suppression des Données  
+### pour l’application **Psykezhely_AutoPoster**
+
+---
+
+## 🧩 Présentation
+
+**Psykezhely_AutoPoster** est une application connectée à l’API **Meta Graph (Facebook / Instagram)** permettant d’automatiser la **création, la planification et la publication de contenus** visuels, ainsi que la récupération d’insights statistiques.
+
+L’application respecte les **règles de la plateforme Meta** et le **Règlement Général sur la Protection des Données (RGPD)**.
+
+---
+
+## 📜 Politique de Confidentialité
+
+La politique de confidentialité décrit en détail :
+- Les **types de données** potentiellement traitées (tokens, contenus, insights),
+- Les **finalités** du traitement (publication, statistiques, sécurité),
+- Les **mesures de sécurité** mises en œuvre,
+- Et les **droits des utilisateurs**.
+
+🔗 [Lire la Politique de Confidentialité complète](https://etshitambwe.github.io/psykezhely-privacy/privacy-policy-psykezhely-autoposter.html)
+
+---
+
+## 🗑️ Suppression des Données
+
+Conformément au RGPD et aux politiques de Meta, tout utilisateur peut demander la suppression de ses données associées à l’application.
+
+### Pour faire une demande :
+1. Envoyez un e-mail à [vloggy50@gmail.com](mailto:vloggy50@gmail.com)  
+   avec pour objet : **“Demande de suppression de mes données”**  
+2. Indiquez votre identifiant ou page Facebook/Instagram concernée.  
+3. La demande sera traitée sous **7 jours ouvrés maximum**.  
+4. Vous recevrez une **confirmation écrite** une fois la suppression effectuée.
+
+🔗 [Accéder à la page officielle de suppression des données](https://etshitambwe.github.io/psykezhely-privacy/data-deletion-psykezhely-autoposter.html)
+
+---
+
+## 📦 Informations techniques
+
+- **Nom de l’application** : `Psykezhely_AutoPoster`
+- **Développeur** : Eric Tshitambwe (`@etshitambwe`)
+- **Contact** : [vloggy50@gmail.com](mailto:vloggy50@gmail.com)
+- **Dernière mise à jour** : 2025-10-28
+- **Hébergement des pages de conformité** : GitHub Pages
+
+---
+
+## ⚖️ Mentions légales & conformité
+
+- Aucune donnée sensible n’est collectée, stockée ou revendue.  
+- Les tokens d’accès sont gérés par les API Meta et peuvent être révoqués à tout moment via les paramètres de votre compte Facebook/Instagram.  
+- Le projet est conforme aux [Meta Platform Terms & Developer Policies](https://developers.facebook.com/policy/).
+
+---
+
+> 🛡️ *Ce dépôt a pour unique objectif de répondre aux obligations de transparence imposées par Meta Platforms (Facebook/Instagram) dans le cadre de l’utilisation de leur API Graph.*
